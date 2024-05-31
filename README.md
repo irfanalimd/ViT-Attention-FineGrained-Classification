@@ -23,9 +23,13 @@ Several training techniques are employed to optimize the model's performance and
 The trained model achieves impressive results on the CUB-200-2011 dataset:
 
 * Testing Accuracy: 77%
-*Validation Precision: 0.7632
+* Validation Precision: 0.7632
 * Validation Recall: 0.7581
 * Validation F1 Score: 0.7606
+
+![App Screenshot](https://github.com/irfanalimd/ViT-Attention-FineGrained-Classification/blob/main/results.png)
+
+
 
 These metrics demonstrate the effectiveness of the ViT-based model with attention mechanisms in capturing fine-grained details and accurately classifying bird species.
 Installation
